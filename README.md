@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jayrajs-git
+- 👋 Hi, I’m Jayrajsinh Chauhan
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Cryptography Projects
